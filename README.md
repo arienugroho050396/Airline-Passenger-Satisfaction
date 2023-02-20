@@ -8,7 +8,7 @@ For the given Kaggle Dataset, I will perform prediction airline passenger satisf
 ## Technical  
 - Language : Python (filetype: *.ipynb*)
 
-## Content 
+## Content  
 The main objective of predicting airline passenger satisfaction is to improve passenger experience, reduce customer churn, increase customer loyalty, and optimize customer service (CS) resources.
 
 ## Data Field
