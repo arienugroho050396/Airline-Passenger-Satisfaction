@@ -35,7 +35,7 @@ The main objective of predicting airline passenger satisfaction is to improve pa
 | 'Leg Room Service' | Service distance between seats on the plane |
 | 'Cleanliness' | Cleanliness of the fleet or aircraft being boarded |
 | 'Food and Drink' | Food and drink during the Flight |
-| 'In-flight Service' | In-flight Service (during the Flight) |
+| 'In-flight Service' | In-flight Service (during the Flight) | 
 | 'In-flight Wifi Service' |  In-flight Wifi Service (during the Flight) |
 | 'In-flight Entertainment' | Entertainment provided during the Flight |
 | 'Baggage Handling' |  Passenger baggage handling (pax) |
