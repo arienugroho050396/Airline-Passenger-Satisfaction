@@ -1,5 +1,5 @@
 ![This is an image](https://github.com/arienugroho050396/Airline-Passenger-Satisfaction/blob/main/header.png) 
- 
+  
 [*here you can download the cheatsheet*](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction)  
  
 ## Introduction  
